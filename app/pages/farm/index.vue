@@ -28,7 +28,7 @@
               hover:border-(--ijo-terangs)
             "
           >
-            <div class="hover:text-(--ijo-terangs)">
+            <div class="hover:text-(--ijo-terangs) text-white">
               {{ item.nama }}
             </div>
           </NuxtLink>
