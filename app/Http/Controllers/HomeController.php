@@ -260,6 +260,11 @@ class HomeController extends Controller
         return view ('contact_us');
     }
 
+    public function index_about(Request $request)
+    {
+        return view ('about_us');
+    }
+
     public function index_resto(Request $request)
     {
         return view ('restaurant.index_resto');
