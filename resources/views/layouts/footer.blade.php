@@ -46,7 +46,7 @@
                                 <h5 class="widget-title"><img srcset="{{url('assets')}}/home/icon-polygon.png" style="width: 8%; margin-top: -5px; margin-right: 10px;"> Tentang</h5>
                                 <div class="inner">
                                     <ul class="footer-link link-hover">
-                                        <li><a href="#">Tentang Kami</a></li>
+                                        <li><a href="{{url('/about-us')}}">Tentang Kami</a></li>
                                         <li><a href="#">Masukan & Saran</a></li>
                                         <li><a href="#">Kebijakan & Privasi</a></li>
                                     </ul>

@@ -22,6 +22,7 @@ Route::get('/store', [HomeController::class, 'index_store']);
 Route::get('/mart', [HomeController::class, 'index_mart']);
 Route::get('/contact', [HomeController::class, 'index_contact']);
 Route::get('/blog', [HomeController::class, 'index_blog']);
+Route::get('/about-us', [HomeController::class, 'index_about']);
 Route::get('/login', [HomeController::class, 'index_login']);
 
 //farm
