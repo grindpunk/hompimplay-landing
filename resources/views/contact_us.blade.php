@@ -133,7 +133,7 @@
                                     <textarea name="contact-message" id="contact-message" cols="30" rows="6" placeholder="Pesan" required></textarea>
                                 </div>
                                 <div class="form-group col-12 text-center">
-                                    <button class="rn-btn edu-btn submit-btn" name="submit" type="submit">Kirim Pesan <i class="icon-4"></i></button>
+                                    <button class="rn-btn edu-btn submit-btn" disabled>Kirim Pesan <i class="icon-4"></i></button>
                                 </div>
                             </div>
                         </form>

@@ -149,13 +149,13 @@
                     <div class="edu-course course-style-15" style="background: none;">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="{{url('/restaurant')}}/sangu-haneut">
+                                <a href="https://www.instagram.com/sanguhaneutsunda/">
                                     <img src="{{url('assets')}}/resto/sangu-haneut.png" alt="Resto Image">
                                 </a>
                             </div>
                             <div class="content" style="padding-top: 30px;">
                                 <h2 class="title">
-                                    <a href="{{url('/restaurant')}}/sangu-haneut">Sangu Haneut</a>
+                                    <a href="https://www.instagram.com/sanguhaneutsunda/">Sangu Haneut</a>
                                 </h2>
                                 <p class="text pre-textsecondary">Lebih dari sekadar menyajikan cita rasa sunda yang otentik, Sangu haneut menawarkan perjalanan sensorik yang menghormati proses di balik beras—dari ladang hingga meja. 
                                     Mengundang para tamu untuk menikmati tidak hanya rasa, tetapi juga warisan, cerita, dan tradisi abadi yang memberikan makna pada setiap butir beras dan alam yang menyertainya.
@@ -173,13 +173,13 @@
                     <div class="edu-course course-style-15" style="background: none;">
                         <div class="inner">
                             <div class="thumbnail">
-                                <a href="{{url('/restaurant')}}/merambah-rasa">
+                                <a href="https://www.instagram.com/merambah.rasa/">
                                     <img src="{{url('assets')}}/resto/merambah-rasa.png" alt="Resto Image">
                                 </a>
                             </div>
                             <div class="content" style="padding-top: 30px;">
                                 <h2 class="title">
-                                    <a href="{{url('/restaurant')}}/merambah-rasa">Merambah Rasa</a>
+                                    <a href="https://www.instagram.com/merambah.rasa/">Merambah Rasa</a>
                                 </h2>
                                 <p class="text pre-textsecondary">Jelajahi kekayaan rempah nusantara di Merambah Rasa! Layaknya petualang menyusuri pulau, kami meramu resep autentik dari Sabang hingga Merauke menjadi hidangan yang menghangatkan jiwa. 
                                     Nikmati harmoni tradisi dan kebersamaan keluarga dalam setiap sajian khas Indonesia yang kaya akan cerita dan rasa
