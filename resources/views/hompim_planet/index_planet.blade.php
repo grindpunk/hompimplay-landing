@@ -121,7 +121,7 @@
                                             <div class="thumbnail-wrap">
                                                 <div class="thumbnail">
                                                     <a href="{{url('/planet')}}/{{ $value->planet_code }}">
-                                                        <img src="{{url('assets')}}/planet/{{ $value->planet_img }}" alt="planet images">
+                                                        <img src="{{url('assets')}}/planet/{{ $value->planet_thumb }}" alt="planet images">
                                                     </a>
                                                 </div>
                                             </div>

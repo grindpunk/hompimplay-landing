@@ -127,7 +127,7 @@
                                             <div class="thumbnail-wrap">
                                                 <div class="thumbnail" style="max-height: 140px;">
                                                     <a href="{{url('/farm')}}/{{ $value->animal_code }}">
-                                                        <img src="{{url('assets')}}/animal/{{ $value->animal_img }}" alt="farm images" style="max-height: 140px;">
+                                                        <img src="{{url('assets')}}/animal/{{ $value->animal_thumb }}" alt="farm images" style="max-height: 140px;">
                                                     </a>
                                                 </div>
                                             </div>

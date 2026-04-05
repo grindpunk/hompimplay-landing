@@ -13,6 +13,7 @@ return new class extends Migration
             $table->string('animal_name', 50);
             $table->text('article_title');
             $table->text('article_desc');
+            $table->text('animal_thumb')->nullable();
             $table->text('animal_img')->nullable();
             $table->string('animal_category', 50);
             $table->string('animal_code', 50)->unique();

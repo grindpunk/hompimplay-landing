@@ -13,6 +13,7 @@ return new class extends Migration
             $table->string('city_name', 50);
             $table->text('article_title');
             $table->text('article_desc');
+            $table->text('city_thumb')->nullable();
             $table->text('city_img')->nullable();
             $table->string('city_category', 50);
             $table->string('city_code', 50)->unique();

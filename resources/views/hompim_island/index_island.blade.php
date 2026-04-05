@@ -124,7 +124,7 @@
                                             <div class="thumbnail-wrap">
                                                 <div class="thumbnail">
                                                     <a href="{{url('/island')}}/{{ $value->island_code }}">
-                                                        <img src="{{url('assets')}}/island/{{ $value->island_img }}" alt="island images">
+                                                        <img src="{{url('assets')}}/island/{{ $value->island_thumb }}" alt="island images">
                                                     </a>
                                                 </div>
                                             </div>

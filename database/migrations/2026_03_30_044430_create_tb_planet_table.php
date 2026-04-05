@@ -13,6 +13,7 @@ return new class extends Migration
             $table->string('planet_name', 50);
             $table->text('article_title');
             $table->text('article_desc');
+            $table->text('planet_thumb')->nullable();
             $table->text('planet_img')->nullable();
             $table->string('planet_category', 50);
             $table->string('planet_code', 50)->unique();

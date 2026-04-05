@@ -13,6 +13,7 @@ return new class extends Migration
             $table->string('island_name', 50);
             $table->text('article_title');
             $table->text('article_desc');
+            $table->text('island_thumb')->nullable();
             $table->text('island_img')->nullable();
             $table->string('island_category', 50);
             $table->string('island_code', 50)->unique();

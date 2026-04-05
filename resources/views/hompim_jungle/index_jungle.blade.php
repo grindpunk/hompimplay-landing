@@ -121,7 +121,7 @@
                                             <div class="thumbnail-wrap">
                                                 <div class="thumbnail">
                                                     <a href="{{url('/jungle')}}/{{ $value->jungle_code }}">
-                                                        <img src="{{url('assets')}}/jungle/{{ $value->jungle_img }}" alt="jungle images">
+                                                        <img src="{{url('assets')}}/jungle/{{ $value->jungle_thumb }}" alt="jungle images">
                                                     </a>
                                                 </div>
                                             </div>

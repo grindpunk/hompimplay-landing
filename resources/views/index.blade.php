@@ -176,7 +176,7 @@
         <div class="swiper photography-activator">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner.png" class="swiper-lazy" alt="image">
+                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner-cart.webp" class="swiper-lazy" alt="image">
                     {{-- <div class="thumbnail-bg-content">
                         <div class="container edublink-animated-shape">
                             <div class="row">
@@ -195,7 +195,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner.png" class="swiper-lazy" alt="image">
+                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner-playground.webp" class="swiper-lazy" alt="image">
                     {{-- <div class="thumbnail-bg-content">
                         <div class="container edublink-animated-shape">
                             <div class="row">
@@ -214,7 +214,7 @@
                 </div>
 
                 <div class="swiper-slide">
-                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner.png" class="swiper-lazy" alt="image">
+                    <img data-transform-origin='center center' data-src="{{url('assets')}}/home/home-banner-sand.webp" class="swiper-lazy" alt="image">
                     {{-- <div class="thumbnail-bg-content">
                         <div class="container edublink-animated-shape">
                             <div class="row">
@@ -267,7 +267,7 @@
                     <div class="inner">
                         <div class="thumbnail">
                             <a href="{{url('/park')}}">
-                                <img src="{{url('assets')}}/home/home-flying-fox.png" alt="Flying Fox Images">
+                                <img src="{{url('assets')}}/home/home-flying-fox.webp" alt="Flying Fox Images">
                             </a>
                         </div>
                         <div class="content rides" style="background-color: rgba(28, 166, 219, 1);">
@@ -290,7 +290,7 @@
                     <div class="inner" style="display: flex; align-items: stretch;">
                         <div class="thumbnail">
                             <a href="{{url('/park/hompim-dash')}}">
-                                <img src="{{url('assets')}}/home/home-gokart.png" alt="GoKart Images" id="img-gokart">
+                                <img src="{{url('assets')}}/home/home-gokart.webp" alt="GoKart Images" id="img-gokart">
                             </a>
                         </div>
                         <div class="content rides" id="home-gokart" style="background-color: rgba(228, 62, 137, 1); display:flex; flex-direction:column; overflow-y: auto;">
@@ -309,7 +309,7 @@
                     <div class="inner" style="display: flex; align-items: stretch;">
                         <div class="thumbnail">
                             <a href="{{url('/island')}}">
-                                <img src="{{url('assets')}}/home/home-pool.png" alt="Pool Images" id="img-pool">
+                                <img src="{{url('assets')}}/home/home-pool.webp" alt="Pool Images" id="img-pool">
                             </a>
                         </div>
                         <div class="content rides" id="home-pool" style="background-color: rgba(136, 188, 18, 1); display:flex; flex-direction:column; overflow-y: auto;">
@@ -394,7 +394,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/farm')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimfarm.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimfarm.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimfarm-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -414,7 +414,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/park/hompim-dash')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimkart.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimkart.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimkart-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -434,7 +434,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/jungle')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimjungle.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimjungle.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimjungle-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -454,7 +454,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/planet')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimplanet.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimplanet.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimplanet-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -474,7 +474,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/island')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimisland.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimisland.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimisland-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -494,7 +494,7 @@
                             <div class="thumbnail-wrap">
                                 <div class="thumbnail-img">
                                     <a href="{{url('/city')}}">
-                                        <img src="{{url('assets')}}/home/home-hompimcity.png" alt="team images" class="bg-image">
+                                        <img src="{{url('assets')}}/home/home-hompimcity.webp" alt="team images" class="bg-image">
 
                                         <div class="overlay">
                                             <img src="{{url('assets')}}/home/hompimcity-logo.png" alt="Logo" class="sub-logo" style="width: 50%;">
@@ -562,7 +562,7 @@
                             <h2 class="title" style="color: white;">Jam Operasional Weekend</h2>
                             <br>
                             <span style="color: white;">Sabtu & Minggu</span>
-                            <p style="color: white;">Pukul 09:00 hingga 21:00</p>
+                            <p style="color: white;">Pukul 09:00 hingga 20:00</p>
                             <span style="color: transparent;">-</span>
                         </div>
                     </div>
@@ -575,7 +575,7 @@
     <!--=          Ticket Area Start         =-->
     <!--=====================================-->
     <!-- Start Ticket Area  -->
-    <div class="edu-team-area team-area-7 section-gap-equal" style="padding-top: 100px;">
+    {{-- <div class="edu-team-area team-area-7 section-gap-equal" style="padding-top: 100px;">
         <div class="container">
             <div class="about-heading-area">
                 <div class="section-title section-left" data-sal-delay="50" data-sal="slide-up" data-sal-duration="800">
@@ -620,13 +620,13 @@
                 <!-- End Instructor Grid  -->
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- End Ticket Area  -->
     <!--=====================================-->
     <!--=      Call TO Action Area Start    =-->
     <!--=====================================-->
     <!-- Start CTA Area  -->
-    <div class="edu-about-area gap-bottom-equal about-style-4 online-art-about" style="padding-top: 0px;">
+    <div class="edu-about-area gap-bottom-equal about-style-4 online-art-about" style="padding-top: 100px;">
         <div class="container">
             <div class="about-heading-area">
                 <div class="section-title section-left" data-sal-delay="50" data-sal="slide-up" data-sal-duration="800">

@@ -13,6 +13,7 @@ return new class extends Migration
             $table->string('park_name', 50);
             $table->text('article_title');
             $table->text('article_desc');
+            $table->text('park_thumb')->nullable();
             $table->text('park_img')->nullable();
             $table->string('park_category', 50);
             $table->string('park_code', 50)->unique();
